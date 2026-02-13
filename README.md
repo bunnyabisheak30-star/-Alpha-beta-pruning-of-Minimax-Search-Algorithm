@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:   Abisheak A  </h3>
-<h3>Register Number:      212224020002  </h3>
+<h3>Name:   Abisheak </h3>
+<h3>Register Number:      212224050014   </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -207,7 +207,3 @@ if __name__ == "__main__":
 
 
 <h1>Result</h1>
-
-We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game.
-
-
